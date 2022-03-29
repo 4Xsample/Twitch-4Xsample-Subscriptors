@@ -49,10 +49,10 @@ Si no tens el plugin instal·lat et recomano fer-ho
 
 Links d’interes
 
-    Perfil de twitter: http://www.twiter.com/4Xsample
-    Canal de twitch: http://www.twitch.tv/4Xsample
-    Canal a YouTube: http://www.YouTube.com/4Xsample
-    Servidor de Discord: https://discord.gg/ahVq54p
-    Repostori de Github: https://github.com/4Xsample/Twitch-4Xsample-Subscriptors
+    Perfil de twitter: [http://www.twiter.com/4Xsample](http://www.twiter.com/4Xsample)
+    Canal de twitch: [http://www.twitch.tv/4Xsample](http://www.twitch.tv/4Xsample)
+    Canal a YouTube: [http://www.YouTube.com/4Xsample](http://www.YouTube.com/4Xsample)
+    Servidor de Discord: [https://discord.gg/ahVq54p](https://discord.gg/ahVq54p)
+    Repostori de Github: [https://github.com/4Xsample/Twitch-4Xsample-Subscriptors](https://github.com/4Xsample/Twitch-4Xsample-Subscriptors)
 
 
