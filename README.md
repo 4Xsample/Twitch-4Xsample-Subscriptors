@@ -38,6 +38,21 @@ Com a sub del canal tens una colla de comandes a la teva disposició que et perm
 
     "!004" Llicencia per manquejar.
 
+
+Nomes pel fet de ser subscriptor del canal tens el rol de subscriptor al servidor de discord (de moment no et proporciona cap aventatge respecte a altres usuaris però el teu nick es veurà en color Lila twitch i apareixeras a la llista de subs ja ho treballarem una mica mes en un futur)
+
+Bastantes de les recompenses del canal (i de les comandes que pots gaudir com a subscriptor) es poden aprofitar millor si tambè formes part de la nostre comunitat a discord aixi que t’animo a entrar i gaudir de tot plenament.
+
 Si ets usuari de [StreamDeck](https://www.elgato.com/es/stream-deck) de [elgato](www.elgato.com) i tens instalat el plugin [twitch tools](https://github.com/BarRaider/streamdeck-chatpager) de [BarRaider](https://barraider.com) pots descarregar [el perfil](https://github.com/4Xsample/Twitch-4Xsample-Subscriptors/blob/main/Subs%204Xsample.streamDeckProfile) que he creat per subscriptors.
 
-Pots uar-lo directament o pots copiar la unica carpeta cap al teu perfil principal.
+Si no tens el plugin instal·lat et recomano fer-ho
+
+Links d’interes
+
+    Perfil de twitter: http://www.twiter.com/4Xsample
+    Canal de twitch: http://www.twitch.tv/4Xsample
+    Canal a YouTube: http://www.YouTube.com/4Xsample
+    Servidor de Discord: https://discord.gg/ahVq54p
+    Repostori de Github: https://github.com/4Xsample/Twitch-4Xsample-Subscriptors
+
+
