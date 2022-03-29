@@ -47,7 +47,7 @@ Si ets usuari de [StreamDeck](https://www.elgato.com/es/stream-deck) de [elgato]
 
 Si no tens el plugin instal·lat et recomano fer-ho
 
-##Links d’interes##
+## Links d’interes
 
 
 Perfil de twitter: [http://www.twiter.com/4Xsample](http://www.twiter.com/4Xsample)
