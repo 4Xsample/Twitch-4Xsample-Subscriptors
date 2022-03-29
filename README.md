@@ -48,7 +48,6 @@ Si ets usuari de [StreamDeck](https://www.elgato.com/es/stream-deck) de [elgato]
 Si no tens el plugin instal·lat et recomano fer-ho
 
 Links d’interes
-
     Perfil de twitter: [http://www.twiter.com/4Xsample](http://www.twiter.com/4Xsample)
     Canal de twitch: [http://www.twitch.tv/4Xsample](http://www.twitch.tv/4Xsample)
     Canal a YouTube: [http://www.YouTube.com/4Xsample](http://www.YouTube.com/4Xsample)
