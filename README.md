@@ -10,7 +10,7 @@
 
 Primer de tot, vull agrair-te el teu suport als meus directes i dir-te que m’animen moltissim aquestes coses.
 
-Si tens el teu usuari de discord vinculat a twitch se t’assigna automàticament rol [al meu servidor](https://discord.gg/ahVq54p).
+Si tens el teu usuari de discord vinculat a twitch se t’assigna automàticament rol [al meu servidor](https://discord.4Xsample.cat).
 
 Com a sub del canal tens una colla de comandes a la teva disposició que et permetran gaudir de la majoria de recompenses sense haver de gastar punts de canal:
 
@@ -54,7 +54,7 @@ Canal de twitch: [http://www.twitch.tv/4Xsample](http://www.twitch.tv/4Xsample)
 
 Canal a YouTube: [http://www.YouTube.com/4Xsample](http://www.YouTube.com/4Xsample)
 
-Servidor de Discord: [https://discord.gg/ahVq54p](https://discord.gg/ahVq54p)
+Servidor de Discord: [https://discord.4Xsample.cat](https://discord.4Xsample.cat)
 
 Repostori de Github: [https://github.com/4Xsample/Twitch-4Xsample-Subscriptors](https://github.com/4Xsample/Twitch-4Xsample-Subscriptors)
 
